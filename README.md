@@ -10,3 +10,5 @@
 | Part 6 | Data Cleaning | [Repo](https://github.com/deuscoco/SQL-part-6) |
 | Part 7 | Data Validation | [Repo](https://github.com/deuscoco/SQL-part-7) |
 | Part 8 | Case Study | [Repo](https://github.com/deuscoco/SQL-part-8) |
+| **Part 9** | **Data Cleansing with OpenRefine** | [Repo](https://github.com/deuscoco/SQL-part-9) |
+| **Part 10** | **HAVING Clause & Aggregation** | [Repo](https://github.com/deuscoco/SQL-part-10) |
