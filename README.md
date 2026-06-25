@@ -1,24 +1,17 @@
 ## 📚 Week 2 – Data Collection & Understanding
-
-Pada minggu kedua, fokus pembelajaran diarahkan pada **fondasi pengumpulan dan pemahaman data** sebelum masuk ke tahap analisis yang lebih kompleks.
-
-Di tahap ini, saya mempelajari bagaimana data dikumpulkan, dikenali strukturnya, diuji kualitasnya, hingga dibersihkan agar siap digunakan untuk proses analisis lanjutan.
-
-Minggu ini menjadi tahap penting karena kualitas analisis sangat bergantung pada kualitas data. Oleh karena itu, saya mengeksplorasi berbagai teknik seperti:
-
-- Identifikasi sumber data
-- Teknik pengumpulan data
-- Pemahaman tipe data
-- Pemeriksaan kualitas data
+In the second week, the learning focus shifted to the **foundations of data collection and understanding** before moving into more complex stages of analysis.
+At this stage, I learned how data is collected, how its structure is identified, how its quality is tested, and how it is cleaned so it's ready for further analysis.
+This week was an important stage because the quality of analysis depends heavily on the quality of the data. Therefore, I explored various techniques such as:
+- Identifying data sources
+- Data collection techniques
+- Understanding data types
+- Checking data quality
 - Exploratory Data Analysis (EDA)
 - Data cleaning & validation
-- Studi kasus praktikal menggunakan SQL & OpenRefine
-- Penggunaan HAVING clause untuk agregasi lanjutan
-
-Pendekatan yang digunakan bersifat **hands-on**, dengan setiap bagian dipisahkan ke dalam repository tersendiri agar dokumentasi pembelajaran lebih terstruktur dan modular.
-
+- Practical case studies using SQL & OpenRefine
+- Using the HAVING clause for advanced aggregation
+The approach used is **hands-on**, with each section separated into its own repository to keep the learning documentation structured and modular.
 ---
-
 | Part | Topic | Repository |
 |------|------|------------|
 | Part 1 | Data Source | [Repo](https://github.com/deuscoco/SQL-part-1) |
